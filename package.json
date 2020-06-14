@@ -1,0 +1,36 @@
+{
+  "name": "qqk-pages",
+  "version": "0.1.0",
+  "description": "Awesome node module",
+  "keywords": [
+    "qqk-pages",
+    "zce"
+  ],
+  "homepage": "https://github.com/qqk/qqk-pages#readme",
+  "bugs": {
+    "url": "https://github.com/qqk/qqk-pages/issues"
+  },
+  "license": "MIT",
+  "author": "qqk",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qqk/qqk-pages.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^13.1.0"
+  },
+  "engines": {
+    "node": ">=6"
+  }
+}
