@@ -14,7 +14,8 @@
   "license": "MIT",
   "author": "qqk",
   "files": [
-    "lib"
+    "lib",
+    "bin"
   ],
   "main": "lib/index.js",
   "directories": {
